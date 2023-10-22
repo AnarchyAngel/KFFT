@@ -1,5 +1,4 @@
 #!/bin/bash
-#https://tinyurl.com/yeykufsv
 rm -rf .xm
 mkdir .xm
 cd .xm
